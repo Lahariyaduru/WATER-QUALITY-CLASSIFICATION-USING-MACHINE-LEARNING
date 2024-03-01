@@ -4,7 +4,7 @@
 1) Dwnload python from https://www.python.org/downloads/
 2) Download all files to the system
 3) Open IDLE
-4) Now go to file<open "select classifing water quality and type of water.py"  or "classifing water quality.py"
+4) Now go to file<open select "classifing water quality and type of water.py"  or "classifing water quality.py"
 5) Then click on Run < Run Module
 
 **Excuting the project:**
